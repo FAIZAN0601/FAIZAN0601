@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan</h1>
+<h1 align="center">Hi 👋, I'm Faizan Azad</h1>
 <h3 align="center">Frontend Developer • Creative Coder • Business & Analytics Enthusiast</h3>
 
 ---
@@ -9,7 +9,7 @@
 - 💻 Building interactive web experiences and analytics projects
 - 🎯 Interested in business, startups, design and tech
 - ⚡ Love creating modern visuals and premium UI experiences
-- 📫 Reach me at: **mirfaizan3065@gmail.com
+- 📫 Reach me at: **mirfaizan3065@gmail.com**
 
 ---
 
@@ -43,11 +43,11 @@
 
 #### 👟 YZY Sneaker Landing Page
 Premium sneaker-inspired interactive landing page using HTML, CSS & JavaScript.
-> 🔗 [View Repository]()https://codepen.io/Vp-F-x-Dada/pen/raMqNGj
+> 🔗 [View Repository](https://github.com/FAIZAN0601/yzy-landing-page)
 
 #### 📊 Reelytics
 Social media engagement analytics dashboard with performance tracking.
-> 🔗 [View Repository]()https://codepen.io/Vp-F-x-Dada/pen/QwKVOaj
+> 🔗 [View Repository](https://github.com/FAIZAN0601/reelytics-dashboard)
 
 #### 🌌 Neural Flow Visualization
 Real-time 3D data visualization system built using Three.js and WebGL.
