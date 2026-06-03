@@ -16,16 +16,20 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/YOURUSERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://x.com/renekoinfamy" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOURUSERNAME" target="_blank">
+  <a href="https://www.instagram.com/_exotic.faizann/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/faizan-azad-b15396412" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/FAIZAN0601" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
